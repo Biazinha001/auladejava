@@ -1,4 +1,3 @@
-
 public class Main {
 
     public static void verificarSituacao(String nome, double nota) {
